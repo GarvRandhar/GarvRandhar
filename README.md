@@ -9,6 +9,7 @@
 ### About Me
 
 🎓 Currently pursuing BTech in Computer Science and Engeneering at SRM Institute Of Science and Technology
+
 💻 I'm passionate about learning and applying new technologies  
 🔭 Working on academic and personal projects to build my portfolio  
 🌱 Constantly improving my coding skills and exploring new frameworks  
