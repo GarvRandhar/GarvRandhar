@@ -8,12 +8,12 @@
 
 ### About Me
 
-🎓 Currently pursuing BTech in Computer Science and Engeneering at SRM Institute Of Science and Technology
-💻 I'm passionate about learning and applying new technologies  
-🔭 Working on academic and personal projects to build my portfolio  
-🌱 Constantly improving my coding skills and exploring new frameworks  
-💡 I enjoy solving complex problems with elegant solutions  
-🤝 Open to internship opportunities and collaborative projects  
+#### 🎓 Currently pursuing BTech in Computer Science and Engeneering at SRM Institute Of Science and Technology
+#### 💻 I'm passionate about learning and applying new technologies  
+#### 🔭 Working on academic and personal projects to build my portfolio  
+#### 🌱 Constantly improving my coding skills and exploring new frameworks  
+#### 💡 I enjoy solving complex problems with elegant solutions  
+#### 🤝 Open to internship opportunities and collaborative projects  
 
 ### Tech Stack
 
@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### GitHub Stats
+## GitHub Stats
 
 ### GitHub Activity
 
