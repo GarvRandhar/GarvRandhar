@@ -1,7 +1,7 @@
 # Hello, I'm Garv Randhar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00C9FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Continuous+Learner;Passionate+Coder;Always+Improving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00C9FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Continuous+Learner;Passionate+Coder" alt="Typing SVG">
 </p>
 
 ## 🌟 About Me
@@ -12,6 +12,14 @@
 - 🌱 Constantly improving my coding skills and exploring new frameworks.
 - 💡 Enjoy solving complex problems with elegant solutions.
 - 🤝 Open to internship opportunities and collaborative projects.
+
+---
+
+## ✨ My Coding Journey
+
+It all began when I was in **11th grade**, almost 3 years ago. Back then, coding was just a curious experiment for me. Little did I know, it would turn into a passion that would shape my future. Fast forward to today, I'm in my **2nd year of engineering**, diving deep into the world of technology and innovation.
+
+From writing my first "Hello, World!" program to now tackling complex algorithms and developing projects, every step has been a thrilling adventure. I believe in learning by doing, and every line of code I write is a step toward becoming the software engineer I aspire to be.
 
 ---
 
