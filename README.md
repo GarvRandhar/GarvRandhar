@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Computer+Science+Student;Problem+Solver;Tech+Enthusiast;Always+Learning!" alt="Typing SVG">
 </p>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/GarvRandhar?label=Follow&style=social)](https://github.com/GarvRandhar)
-  [![GitHub stars](https://img.shields.io/github/stars/GarvRandhar?label=Stars&style=social)](https://github.com/GarvRandhar)
-  
-</div>
-
 ---
 
 ## 🌟 About Me
