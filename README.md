@@ -108,10 +108,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarvRandhar&theme=radical" alt="GitHub Profile Summary">
 </div>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GarvRandhar&theme=redical&bg_color=0D1117&hide_border=true&line=58A6FF&point=1F6FEB&area_color=58A6FF&area=true" alt="GitHub Activity Graph">
-</div>
-
 ---
 
 ## 🎯 Current Focus
