@@ -89,14 +89,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarvRandhar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvRandhar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" alt="Top Languages">
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=GarvRandhar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak">
 </div>
 
