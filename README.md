@@ -1,7 +1,9 @@
-## GitHub Analytics
+# README.md
 
-[![GitHub stars](https://img.shields.io/github/stars/GarvRandhar/GarvRandhar?style=social)](https://github.com/GarvRandhar/GarvRandhar/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/GarvRandhar/GarvRandhar?style=social)](https://github.com/GarvRandhar/GarvRandhar/network)  
-[![GitHub watchers](https://img.shields.io/github/watchers/GarvRandhar/GarvRandhar?style=social)](https://github.com/GarvRandhar/GarvRandhar/watchers)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarvRandhar)](https://git.io/streak-stats)
+[![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=GarvRandhar)](https://github.com/GarvRandhar)
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=GarvRandhar&show_icons=true&theme=radical)](https://github.com/GarvRandhar)
 
-**Note:** Some features may be unavailable due to repo settings or GitHub limitations.
+<!-- Previous content of the README.md -->
+
+... (keep other content intact) ...
