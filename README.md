@@ -15,7 +15,7 @@
 - 💻 **Aspiring Software Developer** with growing expertise in modern web technologies
 - 🚀 Passionate about **Software Engineering**, **Web Development**, and **Database Design**
 - 🔭 Currently building **scalable web applications** and exploring **mobile solutions**
-- 🌱 Actively learning **Cloud Technologies**, **DevOps**, and **Machine Learning**
+- 🌱 Actively learning **Cloud Technologies** and **Machine Learning**
 - 💡 Love solving **complex algorithms** and creating **elegant solutions**
 - 📚 Constantly expanding knowledge through **hands-on projects** and **coding challenges**
 - 🤝 Open to **internships**, **collaborations**, and **learning opportunities**
@@ -32,10 +32,8 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </div>
@@ -43,7 +41,6 @@
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -75,7 +72,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
@@ -118,8 +114,7 @@ const garv = {
         cloud: ["AWS", "Heroku", "Netlify"],
         tools: ["Git", "Docker", "VS Code", "Linux"]
     },
-    currentLearning: ["Machine Learning", "Cloud Computing", "DevOps"],
-    architecture: ["Microservices", "Event-Driven", "Design Patterns"],
+    currentLearning: ["Machine Learning", "Cloud Computing"],
     currentFocus: "Building robust and scalable applications",
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
