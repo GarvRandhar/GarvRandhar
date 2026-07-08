@@ -89,8 +89,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GarvRandhar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvRandhar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-nu-beige-43.vercel.app/api?username=GarvRandhar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-nu-beige-43.vercel.app/api/top-langs/?username=GarvRandhar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=GarvRandhar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
