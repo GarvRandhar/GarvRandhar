@@ -94,8 +94,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=GarvRandhar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GarvRandhar&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
 </div>
 
 ---
